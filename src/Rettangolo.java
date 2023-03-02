@@ -5,6 +5,7 @@ public class Rettangolo {
 		System.out.println("Programma rettangolo");
 		System.out.println("programma del retangolo con modifiche");
 		System.out.println("programma del retangolo con modifiche3");
+		System.out.println("programma del retangolo con modifiche4");
 
 	}
 
